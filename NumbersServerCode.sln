@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersServerCode", "NumbersServerCode\NumbersServerCode.csproj", "{9FF8F1D1-E005-4D38-980C-222BFDC2022D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersServerCode.Tests", "NumbersServerCode.Tests\NumbersServerCode.Tests.csproj", "{42C25453-331B-4C6E-A54C-49D01935CD15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FF8F1D1-E005-4D38-980C-222BFDC2022D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF8F1D1-E005-4D38-980C-222BFDC2022D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF8F1D1-E005-4D38-980C-222BFDC2022D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF8F1D1-E005-4D38-980C-222BFDC2022D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C25453-331B-4C6E-A54C-49D01935CD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C25453-331B-4C6E-A54C-49D01935CD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C25453-331B-4C6E-A54C-49D01935CD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C25453-331B-4C6E-A54C-49D01935CD15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

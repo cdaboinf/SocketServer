@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/carlosdaboin/Documents/Job-Search/Company-Exercises/NewRelic/SocketServer/NumbersServerCode.Tests/NumbersServerCode.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/carlosdaboin/Documents/Job-Search/Company-Exercises/NewRelic/SocketServer/NumbersServerCode.Tests/NumbersServerCode.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/carlosdaboin/Documents/Job-Search/Company-Exercises/NewRelic/SocketServer/NumbersServerCode.Tests/NumbersServerCode.Tests.csproj",
+        "projectName": "NumbersServerCode.Tests",
+        "projectPath": "/Users/carlosdaboin/Documents/Job-Search/Company-Exercises/NewRelic/SocketServer/NumbersServerCode.Tests/NumbersServerCode.Tests.csproj",
+        "packagesPath": "/Users/carlosdaboin/.nuget/packages/",
+        "outputPath": "/Users/carlosdaboin/Documents/Job-Search/Company-Exercises/NewRelic/SocketServer/NumbersServerCode.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/carlosdaboin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/carlosdaboin/Documents/Job-Search/Company-Exercises/NewRelic/SocketServer/NumbersServerCode/NumbersServerCode.csproj": {
+                "projectPath": "/Users/carlosdaboin/Documents/Job-Search/Company-Exercises/NewRelic/SocketServer/NumbersServerCode/NumbersServerCode.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.106/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/carlosdaboin/Documents/Job-Search/Company-Exercises/NewRelic/SocketServer/NumbersServerCode/NumbersServerCode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/carlosdaboin/Documents/Job-Search/Company-Exercises/NewRelic/SocketServer/NumbersServerCode/NumbersServerCode.csproj",
+        "projectName": "NumbersServerCode",
+        "projectPath": "/Users/carlosdaboin/Documents/Job-Search/Company-Exercises/NewRelic/SocketServer/NumbersServerCode/NumbersServerCode.csproj",
+        "packagesPath": "/Users/carlosdaboin/.nuget/packages/",
+        "outputPath": "/Users/carlosdaboin/Documents/Job-Search/Company-Exercises/NewRelic/SocketServer/NumbersServerCode/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/carlosdaboin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.FileProviders.Physical": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.106/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
