@@ -4,29 +4,18 @@
     <projectFile>NumbersServerCode/NumbersServerCode.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f33365-1ad5-448e-a4a0-6a4a9926e460" name="Changes" comment="initial server implementation">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NumbersServerCode/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NumbersServerCode/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NumbersServerCode/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NumbersServerCode/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NumbersServerCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersServerCode.Tests/obj/Debug/net6.0/NumbersServerCode.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersServerCode.Tests/obj/Debug/net6.0/NumbersServerCode.Tests.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersServerCode/bin/Debug/net6.0/NumbersServerCode.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersServerCode/bin/Debug/net6.0/NumbersServerCode.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersServerCode/bin/Debug/net6.0/NumbersServerCode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersServerCode/bin/Debug/net6.0/NumbersServerCode.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersServerCode/bin/Debug/net6.0/numbers.log" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersServerCode/bin/Debug/net6.0/numbers.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersServerCode/obj/Debug/net6.0/NumbersServerCode.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersServerCode/obj/Debug/net6.0/NumbersServerCode.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersServerCode/obj/Debug/net6.0/NumbersServerCode.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersServerCode/obj/Debug/net6.0/NumbersServerCode.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersServerCode/obj/Debug/net6.0/NumbersServerCode.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersServerCode/obj/Debug/net6.0/NumbersServerCode.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersServerCode/obj/Debug/net6.0/NumbersServerCode.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersServerCode/obj/Debug/net6.0/NumbersServerCode.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersServerCode/obj/Debug/net6.0/NumbersServerCode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersServerCode/obj/Debug/net6.0/NumbersServerCode.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="c4f33365-1ad5-448e-a4a0-6a4a9926e460" name="Changes" comment="server" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -76,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669002515503</updated>
-      <workItem from="1669002520487" duration="1057000" />
+      <workItem from="1669002520487" duration="1682000" />
     </task>
     <task id="LOCAL-00001" summary="initial server implementation">
       <created>1669002579950</created>
@@ -85,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669002579950</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="server">
+      <created>1669003763711</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669003763711</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="initial server implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial server implementation" />
+    <MESSAGE value="server" />
+    <option name="LAST_COMMIT_MESSAGE" value="server" />
   </component>
 </project>
