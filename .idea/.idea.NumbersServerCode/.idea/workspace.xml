@@ -4,7 +4,9 @@
     <projectFile>NumbersServerCode/NumbersServerCode.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f33365-1ad5-448e-a4a0-6a4a9926e460" name="Changes" comment="server" />
+    <list default="true" id="c4f33365-1ad5-448e-a4a0-6a4a9926e460" name="Changes" comment="server">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NumbersServerCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NumbersServerCode/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669002515503</updated>
-      <workItem from="1669002520487" duration="1682000" />
+      <workItem from="1669002520487" duration="3059000" />
     </task>
     <task id="LOCAL-00001" summary="initial server implementation">
       <created>1669002579950</created>
